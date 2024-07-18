@@ -4,12 +4,12 @@ Welcome to the Placement Training Program repository! This repository contains t
 
 ## 📂 Repository Structure
 
-Placement-Training-Program/
-├── Training1/
-│ ├── Division.java
-│ ├── IfElse.java
-│ └── Loops.java
-└── README.md
+Placement-Training-Program/ <br>
+├── Training1/ <br>
+│ ├── Division.java<br>
+│ ├── IfElse.java<br>
+│ └── Loops.java<br>
+└── README.md<br>
 
 
 ## 📁 TrainingDay1
