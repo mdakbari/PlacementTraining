@@ -9,6 +9,10 @@ Placement-Training-Program/ <br>
 │ ├── Division.java<br>
 │ ├── IfElse.java<br>
 │ └── Loops.java<br>
+├── Training2/ <br>
+│ ├── Animal.java<br>
+│ ├── Supply.java<br>
+│ └── Vehicle.java<br>
 └── README.md<br>
 
 
@@ -26,6 +30,22 @@ The `Training1` folder contains Java code examples for various programming conce
 
 3. **Loops.java**
    - 📌 **Description:** This file contains a code example demonstrating the use of `for` and `do-while` loops in Java. The code prints even numbers using a `for` loop and odd numbers using a `do-while` loop, both within the range of 1 to 30.
+
+## 📁 TrainingDay2
+
+The `Training2` folder contains Java code examples for object-oriented programming concepts. Below are the details of each file in this folder:
+
+### 📜 Program List
+
+1. **Animal.java**
+   - 📌 **Description:** This file contains a code example for creating a simple `Animal` class in Java. The class has attributes like `name` and `sound`, and methods to set and get these attributes.
+
+2. **Supply.java**
+   - 📌 **Description:** This file contains a code example for creating a `Supply` class in Java. The class has attributes like `item` and `quantity`, and methods to set and get these attributes.
+
+3. **Vehicle.java**
+   - 📌 **Description:** This file contains a code example for creating a `Vehicle` class in Java. The class has attributes like `make`, `model`, and `year`, and methods to set and get these attributes.
+
 
 ## 🛠️ How to Compile and Run
 
